@@ -3,7 +3,7 @@
 
 <h1 align="center">IT2045C Lab 07</h1>
 <h1>Lab07A_Invoice</h1>
-<p>Java Swing GUI simulating an invoice that prompts user then prints invoice in formatted JTextArea</p>
+<p>Java Swing GUI simulating an invoice that prompts user then prints invoice</p>
 
 <h1>Execution</h1>
 
