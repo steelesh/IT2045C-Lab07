@@ -7,9 +7,12 @@
 
 <h1>Execution</h1>
 
-
+<h3>Enter 'billing info'</h3>
 <img width="225" alt="Screen Shot 2022-06-29 at 5 21 37 PM" src="https://user-images.githubusercontent.com/94927484/176547180-6128ee7f-6251-4d53-9658-f22b878aad2c.png">
+
+<h3>Enter item/product information</h3>
 <img width="225" alt="Screen Shot 2022-06-29 at 5 22 04 PM" src="https://user-images.githubusercontent.com/94927484/176547197-282a3e26-9135-4451-8ba0-01144a1ad681.png">
+<h3>Results (can add more items with 'Add Items' button)</h3>
 <img width="500" alt="Screen Shot 2022-06-29 at 5 22 10 PM" src="https://user-images.githubusercontent.com/94927484/176547205-264d4024-76c7-4a47-928c-4ea14a2837b6.png">
 
 
